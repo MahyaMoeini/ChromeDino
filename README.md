@@ -4,7 +4,7 @@
 
 **ChromeDino** is a colorful take on the classic Chrome dinosaur game. The dinosaur stays near the left side of the screen while obstacles, collectibles, and the environment scroll toward it. Jump over cacti, avoid flying enemies, collect coins, and beat your high score!
 
-> **معرفی کوتاه:** این پروژه یک بازی دوبعدی از نوع دویدن بی‌پایان (Endless Runner) است که با Unity و زبان C# ساخته شده است. بازی شامل پرش، حرکت سریع، موانع زمینی و هوایی، سکه، سیستم جان، رکورد، انیمیشن و منوهای مختلف است.
+> **Brief Introduction:** This project is a 2D endless runner game developed using Unity and C#. The game features jumping, dashing, ground and flying obstacles, collectible coins, a health system, high-score tracking, character animations, and various menus..
 
 <p align="center">
   <img src="docs/screenshots/gameplay-cactus.png" alt="ChromeDino gameplay with pixel-art dinosaur, cactus and mountains" width="880">
